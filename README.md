@@ -3,7 +3,7 @@
 A desktop-based Pomodoro Timer application developed using **Python, Tkinter, and Pillow**. The application provides a fullscreen graphical interface for managing focused work sessions and scheduled breaks through the Pomodoro Technique.
 
 <p align="center">
-  <img src="opening_screen.png" width="700">
+  <img src="opening_screen" width="700">
 </p>
 
 ## Overview
