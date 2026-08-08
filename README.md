@@ -204,3 +204,7 @@ This project was developed as a practical application of Python programming, GUI
 **Arvy Aral**
 
 BS Electronics Engineering
+
+## License
+
+This project is intended for educational and learning purposes.
